@@ -2,10 +2,19 @@
 ## <div align='center'>Watermelon (97103) v2 Genome</div>
 ### <div align='center'>Home | Search | Batch query | BLAST | Genome Browser | Pathway | [Download](https://github.com/pengwenwakaka/lxp/raw/main/mutationdata/ems4.ann.vcf)</div>
 + Overnew
-  + **Full Name**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;Citrullus lanatus subsp. vulgaris cv. 97103
-  + **Genus**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Citrullus
-  + **Species**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&thinsp;lanatus
-  + **Subspecies**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;vulgaris
-  + **Cultivar**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&thinsp;97103
-  + **Common**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Name	Watermelon (97103) v2
-
+    |**Full Name**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;|Citrullus lanatus subsp. vulgaris cv. 97103|
+    |:-|:-|
+    |**Genus**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Citrullus|
+    |**Species**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&thinsp;|lanatus|
+    |**Subspecies**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|vulgaris|
+    |**Cultivar**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&thinsp;|97103|
+    |**Common**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|Name	Watermelon (97103) v2|
+  
+  
++ Feature 
+    |**Feature Type**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Count**|
+    |:-|-:|     
+   |Chromosome&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	11&emsp;&emsp;|
+   |Gene&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	22,596|
+   |mRNA&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	22,596|
+   |Protein&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;	22,596|
